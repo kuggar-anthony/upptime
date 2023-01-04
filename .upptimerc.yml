@@ -30,7 +30,7 @@ sites:
 
 status-website:
   cname: status.kuggar.io
-  themeUrl: https://raw.githubusercontent.com/kuggar-anthony/upptime/master/assets/custom-theme.css
+  themeUrl: https://cdn.statically.io/gh/kuggar-anthony/upptime/master/assets/custom-theme.css
   logoUrl: https://kugg.ar/images/kuggar-icon.svg
   favicon: https://kugg.ar/favicon.ico
   faviconSvg: https://kugg.ar/images/kuggar-icon.svg
