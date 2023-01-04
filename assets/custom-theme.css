@@ -1,19 +1,19 @@
 /**** IMPORT FONTS ****/
 @font-face {
-	font-family: 'JetBrains Mono';
-	src: url('https://kugg.ar/font/web/eot/JetBrainsMono-Regular.eot') format('embedded-opentype'),
-		 url('https://kugg.ar/font/web/woff2/JetBrainsMono-Regular.woff2') format('woff2'),
-		 url('https://kugg.ar/font/web/woff/JetBrainsMono-Regular.woff') format('woff'),
-		 url('https://kugg.ar/font/ttf/JetBrainsMono-Regular.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
+  font-family: 'JetBrains Mono';
+  src: url('https://kugg.ar/font/web/eot/JetBrainsMono-Regular.eot') format('embedded-opentype'),
+       url('https://kugg.ar/font/web/woff2/JetBrainsMono-Regular.woff2') format('woff2'),
+       url('https://kugg.ar/font/web/woff/JetBrainsMono-Regular.woff') format('woff'),
+       url('https://kugg.ar/font/ttf/JetBrainsMono-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
 
 * {
-	-webkit-font-feature-settings: "liga" on, "calt" on;
-	-webkit-font-smoothing: antialiased;
-	text-rendering: optimizeLegibility;
-	-moz-osx-font-smoothing: grayscale;
+  -webkit-font-feature-settings: "liga" on, "calt" on;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /**** SET THEME ****/
@@ -46,6 +46,5 @@
 
 /**** APPLY CUSTOM CSS ****/
 body {
-	margin: 0;
-	font-family: 'JetBrains Mono', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-family: 'JetBrains Mono', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif !important;
 }
