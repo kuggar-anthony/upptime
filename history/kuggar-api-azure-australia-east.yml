@@ -1,7 +1,7 @@
-url: https://kuggar-prod-au-api.azurewebsites.net/index.html
-status: up
-code: 200
-responseTime: 934
-lastUpdated: 2023-01-04T01:58:33.389Z
+url: $API_KUGGAR_AZURE_AU
+status: down
+code: 404
+responseTime: 203
+lastUpdated: 2023-01-04T02:13:54.183Z
 startTime: Wed Jan 04 2023 01:58:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
