@@ -35,7 +35,7 @@ status-website:
   favicon: https://kugg.ar/favicon.ico
   faviconSvg: https://kugg.ar/images/kuggar-icon.svg
   name: Kuggar Status
-  introTitle: "**<span style="color:#0046ad">Ku<span style="color:#fd3c39">g</span>gar</span>** Virtual Cards Platform Uptime"
+  introTitle: "**<span style=\"color:#0046ad\">Ku<span style=\"color:#fd3c39\">g</span>gar</span>** Virtual Cards Platform Uptime"
   introMessage: This is a status page which shows the status of different components and cloud instances of the Kuggar Virtual Cards Platform, as well as the status of platforms of different virtual card issuers and other third parties that Kuggar integrates into (where possible).
   navbar:
     - title: Status
