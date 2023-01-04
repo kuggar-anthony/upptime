@@ -1,7 +1,7 @@
-url: $CUSTOMER_PORTAL
+url: https://portal.kuggar.io/index.html
 status: up
 code: 200
-responseTime: 282
-lastUpdated: 2023-01-04T02:58:50.753Z
+responseTime: 153
+lastUpdated: 2023-01-04T03:10:40.370Z
 startTime: Wed Jan 04 2023 01:34:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
