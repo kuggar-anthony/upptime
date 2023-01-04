@@ -27,31 +27,10 @@ sites:
   - name: Customer Portal - AWS (Sydney)
     url: http://kuggar-prod-web-cp.s3-website-ap-southeast-2.amazonaws.com/index.html
     icon: https://kugg.ar/favicon.ico
-  - name: MongoDB Atlas - Azure (Australia East)
-    check: "tcp-ping"
-    url: platform-shard-00-00.sdr9y.mongodb.net
-    port: 27017
+  - name: MongoDB Atlas
+    url: https://status.cloud.mongodb.com/api/v2/status.json
     icon: https://www.mongodb.com/assets/images/global/favicon.ico
-  - name: MongoDB Atlas - AWS (Sydney)
-    check: "tcp-ping"
-    url: platform-shard-00-01.sdr9y.mongodb.net
-    port: 27017
-    icon: https://www.mongodb.com/assets/images/global/favicon.ico
-  - name: MongoDB Atlas - Azure (UK South)
-    check: "tcp-ping"
-    url: platform-shard-00-02.sdr9y.mongodb.net
-    port: 27017
-    icon: https://www.mongodb.com/assets/images/global/favicon.ico
-  - name: MongoDB Atlas - Azure (UAE North)
-    check: "tcp-ping"
-    url: platform-shard-00-03.sdr9y.mongodb.net
-    port: 27017
-    icon: https://www.mongodb.com/assets/images/global/favicon.ico
-  - name: MongoDB Atlas - AWS (London)
-    check: "tcp-ping"
-    url: platform-shard-00-04.sdr9y.mongodb.net
-    port: 27017
-    icon: https://www.mongodb.com/assets/images/global/favicon.ico
+    __dangerous__body_down_if_text_missing: '"status":{"indicator":"none","description":"All Systems Operational"}'
   - name: Fixer.io (Foreign Exchange API)
     url: https://data.fixer.io/api/
     icon: https://fixer.io/fixer_images/fixer_ico.png
