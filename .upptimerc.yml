@@ -34,6 +34,12 @@ sites:
   - name: Fixer.io (Foreign Exchange API)
     url: https://data.fixer.io/api/
     icon: https://fixer.io/fixer_images/fixer_ico.png
+  - name: Virtual Card Provider - Nium
+    url: https://payments.nium.com/commons/auth/login
+    method: POST
+    expectedStatusCodes:
+      - 400
+    icon: https://www.nium.com/favicon-192x192.png
 
 status-website:
   cname: status.kuggar.io
