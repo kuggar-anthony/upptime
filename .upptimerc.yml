@@ -14,10 +14,13 @@ sites:
     icon: https://kugg.ar/favicon.ico
   - name: Customer Portal
     url: "$CUSTOMER_PORTAL"
+    icon: https://kugg.ar/favicon.ico
   - name: Customer Portal - Azure (Australia East)
     url: "$CUSTOMER_PORTAL_AZURE_AU"
+    icon: https://kugg.ar/favicon.ico
   - name: Customer Portal - AWS (Sydney)
     url: "$CUSTOMER_PORTAL_AWS_AU"
+    icon: https://kugg.ar/favicon.ico
 
 status-website:
   cname: status.kuggar.io
