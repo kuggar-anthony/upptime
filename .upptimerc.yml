@@ -4,17 +4,20 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Kuggar API
-    url: $API_KUGGAR
+    url: "$API_KUGGAR"
+    icon: https://kugg.ar/favicon.ico
   - name: Kuggar API - Azure (Australia East)
-    url: $API_KUGGAR_AZURE_AU
+    url: "$API_KUGGAR_AZURE_AU"
+    icon: https://kugg.ar/favicon.ico
   - name: Kuggar API - AWS (Sydney)
-    url: $API_KUGGAR_AWS_AU
+    url: "$API_KUGGAR_AWS_AU"
+    icon: https://kugg.ar/favicon.ico
   - name: Customer Portal
-    url: $CUSTOMER_PORTAL
+    url: "$CUSTOMER_PORTAL"
   - name: Customer Portal - Azure (Australia East)
-    url: $CUSTOMER_PORTAL_AZURE_AU
+    url: "$CUSTOMER_PORTAL_AZURE_AU"
   - name: Customer Portal - AWS (Sydney)
-    url: $CUSTOMER_PORTAL_AWS_AU
+    url: "$CUSTOMER_PORTAL_AWS_AU"
 
 status-website:
   cname: status.kuggar.io
