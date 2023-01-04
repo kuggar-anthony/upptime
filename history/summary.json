@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kuggar-api-azure-australia-east",
     "status": "down",
-    "uptime": "39.44%",
-    "uptimeDay": "39.44%",
-    "uptimeWeek": "39.44%",
-    "uptimeMonth": "39.44%",
-    "uptimeYear": "39.44%",
+    "uptime": "36.78%",
+    "uptimeDay": "36.78%",
+    "uptimeWeek": "36.78%",
+    "uptimeMonth": "36.78%",
+    "uptimeYear": "36.78%",
     "time": 443,
     "timeDay": 443,
     "timeWeek": 443,
     "timeMonth": 443,
     "timeYear": 443,
     "dailyMinutesDown": {
-      "2023-01-04": 24
+      "2023-01-04": 28
     }
   },
   {
@@ -43,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kuggar-api-aws-sydney",
     "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.53%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 458,
     "timeDay": 458,
     "timeWeek": 458,
     "timeMonth": 458,
     "timeYear": 458,
-    "dailyMinutesDown": {
-      "2023-01-04": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Customer Portal",
@@ -80,35 +78,39 @@
     "url": "$CUSTOMER_PORTAL_AZURE_AU",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "customer-portal-azure-australia-east",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 59,
-    "timeDay": 59,
-    "timeWeek": 59,
-    "timeMonth": 59,
-    "timeYear": 59,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 45,
+    "timeDay": 45,
+    "timeWeek": 45,
+    "timeMonth": 45,
+    "timeYear": 45,
+    "dailyMinutesDown": {
+      "2023-01-04": 0
+    }
   },
   {
     "name": "Customer Portal - AWS (Sydney)",
     "url": "$CUSTOMER_PORTAL_AWS_AU",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "customer-portal-aws-sydney",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 503,
-    "timeDay": 503,
-    "timeWeek": 503,
-    "timeMonth": 503,
-    "timeYear": 503,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 378,
+    "timeDay": 378,
+    "timeWeek": 378,
+    "timeMonth": 378,
+    "timeYear": 378,
+    "dailyMinutesDown": {
+      "2023-01-04": 0
+    }
   }
 ]
