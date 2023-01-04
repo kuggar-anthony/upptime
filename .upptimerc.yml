@@ -29,8 +29,9 @@ status-website:
       href: /
     - title: Kuggar
       href: https://kugg.ar
+
 i18n:
   footer: [Kuggar Pty Ltd](https://kugg.ar)
-  
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
