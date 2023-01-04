@@ -1,7 +1,7 @@
 url: $API_KUGGAR_AWS_AU
-status: down
-code: 404
-responseTime: 224
-lastUpdated: 2023-01-04T02:51:39.569Z
+status: up
+code: 200
+responseTime: 442
+lastUpdated: 2023-01-04T02:58:47.502Z
 startTime: Wed Jan 04 2023 01:58:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
