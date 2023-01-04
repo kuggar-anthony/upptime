@@ -5,15 +5,22 @@ repo: upptime # The name of this repository
 sites:
   - name: Kuggar API
     url: https://api.kuggar.io/index.html
+  - name: Kuggar API - Azure (Australia East)
+    url: https://kuggar-prod-au-api.azurewebsites.net/index.html
+  - name: Kuggar API - AWS (Sydney)
+    url: http://kuggarprodauapiv2-env.eba-yzpksewj.ap-southeast-2.elasticbeanstalk.com/
   - name: Customer Portal
     url: https://portal.kuggar.io/index.html
+  - name: Customer Portal - Azure (Australia East)
+    url: https://ambitious-bush-0f1487400.1.azurestaticapps.net/index.html
+  - name: Customer Portal - AWS (Sydney)
+    url: http://kuggar-prod-web-cp.s3-website-ap-southeast-2.amazonaws.com/index.html
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.kuggar.io
-  # baseUrl: /your-repo-name
   logoUrl: https://kugg.ar/images/kuggar-icon.svg
+  favicon: https://kugg.ar/favicon.ico
+  faviconSvg: https://kugg.ar/images/kuggar-icon.svg
   name: Kuggar Status
   introTitle: "**Kuggar** Virtual Cards Platform Uptime"
   introMessage: This is a status page which shows the status of different components and cloud instances of the Kuggar Virtual Cards Platform, as well as the status of platforms of different virtual card issuers and other third parties that Kuggar integrates into (where possible).
@@ -22,6 +29,8 @@ status-website:
       href: /
     - title: Kuggar
       href: https://kugg.ar
-
+i18n:
+  footer: [Kuggar Pty Ltd](https://kugg.ar)
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
