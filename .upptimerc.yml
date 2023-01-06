@@ -3,6 +3,7 @@ owner: kuggar-anthony # Your GitHub organization or username, where this reposit
 repo: upptime # The name of this repository
 
 sites:
+  # Kuggar API
   - name: Kuggar API
     url: https://api.kuggar.io/api/v2/ping
     expectedStatusCodes:
@@ -18,6 +19,32 @@ sites:
     expectedStatusCodes:
       - 204
     icon: https://kugg.ar/favicon.ico
+    
+  # Platform API
+  - name: Platform API - Azure (Australia East)
+    url: https://platform.az.au.kuggar.io/api/v2/codes/currency
+    expectedStatusCodes:
+      - 401
+    icon: https://kugg.ar/favicon.ico
+  - name: Platform API - AWS (Sydney)
+    url: https://platform.aws.au.kuggar.io/api/v2/codes/currency
+    expectedStatusCodes:
+      - 401
+    icon: https://kugg.ar/favicon.ico
+    
+  # Virtual.Cards API
+  - name: Virtual.Cards API - Azure (Australia East)
+    url: https://virtualcards.az.au.kuggar.io/api/v2/virtual_card/list
+    expectedStatusCodes:
+      - 401
+    icon: https://kugg.ar/favicon.ico
+  - name: Virtual.Cards API - AWS (Sydney)
+    url: https://virtualcards.aws.au.kuggar.io/api/v2/virtual_card/list
+    expectedStatusCodes:
+      - 401
+    icon: https://kugg.ar/favicon.ico
+    
+  # Customer Portal 
   - name: Customer Portal
     url: https://portal.kuggar.io/index.html
     icon: https://kugg.ar/favicon.ico
@@ -27,13 +54,19 @@ sites:
   - name: Customer Portal - AWS (Sydney)
     url: http://kuggar-prod-web-cp.s3-website-ap-southeast-2.amazonaws.com/index.html
     icon: https://kugg.ar/favicon.ico
+    
+  # Mongo DB
   - name: MongoDB Atlas
     url: https://status.cloud.mongodb.com/api/v2/status.json
     icon: https://www.mongodb.com/assets/images/global/favicon.ico
     __dangerous__body_down_if_text_missing: '"status":{"indicator":"none","description":"All Systems Operational"}'
+    
+  # Integrations
   - name: Fixer.io (Foreign Exchange API)
     url: https://data.fixer.io/api/
     icon: https://fixer.io/fixer_images/fixer_ico.png
+    
+  # Virtual Card Providers
   - name: Virtual Card Provider - Nium
     url: https://payments.nium.com/commons/auth/login
     method: POST
