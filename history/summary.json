@@ -184,18 +184,20 @@
     "url": "https://status.cloud.mongodb.com/api/v2/status.json",
     "icon": "https://www.mongodb.com/assets/images/global/favicon.ico",
     "slug": "mongo-db-atlas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 267,
-    "timeWeek": 182,
-    "timeMonth": 182,
-    "timeYear": 182,
-    "dailyMinutesDown": {}
+    "time": 192,
+    "timeDay": 270,
+    "timeWeek": 192,
+    "timeMonth": 192,
+    "timeYear": 192,
+    "dailyMinutesDown": {
+      "2023-01-08": 0
+    }
   },
   {
     "name": "Fixer.io (Foreign Exchange API)",
