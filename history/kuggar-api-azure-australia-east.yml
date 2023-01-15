@@ -1,7 +1,7 @@
 url: https://kuggar-prod-au-api.azurewebsites.net/api/v2/ping
 status: up
 code: 204
-responseTime: 873
-lastUpdated: 2023-01-14T23:23:44.488Z
+responseTime: 856
+lastUpdated: 2023-01-15T23:25:24.261Z
 startTime: Wed Jan 04 2023 01:58:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
