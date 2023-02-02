@@ -189,11 +189,11 @@
     "icon": "https://www.mongodb.com/assets/images/global/favicon.ico",
     "slug": "mongo-db-atlas",
     "status": "up",
-    "uptime": "94.72%",
-    "uptimeDay": "50.82%",
+    "uptime": "94.75%",
+    "uptimeDay": "68.79%",
     "uptimeWeek": "79.81%",
-    "uptimeMonth": "94.72%",
-    "uptimeYear": "94.72%",
+    "uptimeMonth": "94.75%",
+    "uptimeYear": "94.75%",
     "time": 219,
     "timeDay": 244,
     "timeWeek": 212,
@@ -233,9 +233,9 @@
     "url": "https://payments.nium.com/commons/auth/login",
     "icon": "https://www.nium.com/favicon-192x192.png",
     "slug": "virtual-card-provider-nium",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -244,6 +244,8 @@
     "timeWeek": 551,
     "timeMonth": 543,
     "timeYear": 543,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-02": 0
+    }
   }
 ]
