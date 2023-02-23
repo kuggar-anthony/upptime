@@ -238,19 +238,19 @@
     "url": "https://payments.nium.com/commons/auth/login",
     "icon": "https://www.nium.com/favicon-192x192.png",
     "slug": "virtual-card-provider-nium",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.86%",
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.83%",
     "time": 577,
-    "timeDay": 545,
-    "timeWeek": 571,
+    "timeDay": 562,
+    "timeWeek": 574,
     "timeMonth": 596,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2023-02-23": 0,
+      "2023-02-23": 22,
       "2023-02-02": 98
     }
   }
