@@ -5,18 +5,18 @@
     "icon": "https://kugg.ar/favicon.ico",
     "slug": "kuggar-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 836,
+    "uptime": "99.99%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 837,
     "timeDay": 921,
     "timeWeek": 785,
     "timeMonth": 856,
-    "timeYear": 836,
+    "timeYear": 837,
     "dailyMinutesDown": {
-      "2023-05-04": 0
+      "2023-05-04": 22
     }
   },
   {
@@ -60,9 +60,9 @@
     "url": "https://platform.az.au.kuggar.io/api/v2/codes/currency",
     "icon": "https://kugg.ar/favicon.ico",
     "slug": "platform-api-azure-australia-east",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 862,
     "timeMonth": 834,
     "timeYear": 821,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-04": 0
+    }
   },
   {
     "name": "Platform API - AWS (Sydney)",
@@ -96,9 +98,9 @@
     "url": "https://virtualcards.az.au.kuggar.io/api/v2/virtual_card/list",
     "icon": "https://kugg.ar/favicon.ico",
     "slug": "virtual-cards-api-azure-australia-east",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -108,6 +110,7 @@
     "timeMonth": 835,
     "timeYear": 809,
     "dailyMinutesDown": {
+      "2023-05-04": 0,
       "2023-01-25": 21
     }
   },
@@ -135,19 +138,17 @@
     "icon": "https://kugg.ar/favicon.ico",
     "slug": "customer-portal",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 255,
     "timeDay": 145,
     "timeWeek": 196,
     "timeMonth": 381,
     "timeYear": 255,
-    "dailyMinutesDown": {
-      "2023-05-04": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Customer Portal - Azure (Australia East)",
@@ -195,7 +196,7 @@
     "status": "up",
     "uptime": "91.85%",
     "uptimeDay": "85.34%",
-    "uptimeWeek": "19.34%",
+    "uptimeWeek": "19.55%",
     "uptimeMonth": "78.66%",
     "uptimeYear": "91.85%",
     "time": 212,
