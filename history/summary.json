@@ -24,9 +24,9 @@
     "url": "https://kuggar-prod-au-api.azurewebsites.net/api/v2/ping",
     "icon": "https://kugg.ar/favicon.ico",
     "slug": "kuggar-api-azure-australia-east",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 791,
     "timeMonth": 755,
     "timeYear": 765,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-05": 0
+    }
   },
   {
     "name": "Kuggar API - AWS (Sydney)",
@@ -152,18 +154,20 @@
     "url": "https://ambitious-bush-0f1487400.1.azurestaticapps.net/index.html",
     "icon": "https://kugg.ar/favicon.ico",
     "slug": "customer-portal-azure-australia-east",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 82,
-    "timeDay": 64,
-    "timeWeek": 59,
-    "timeMonth": 87,
+    "timeDay": 92,
+    "timeWeek": 67,
+    "timeMonth": 88,
     "timeYear": 82,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-05": 0
+    }
   },
   {
     "name": "Customer Portal - AWS (Sydney)",
@@ -191,11 +195,11 @@
     "icon": "https://www.mongodb.com/assets/images/global/favicon.ico",
     "slug": "mongo-db-atlas",
     "status": "up",
-    "uptime": "91.91%",
+    "uptime": "91.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "32.42%",
+    "uptimeWeek": "33.07%",
     "uptimeMonth": "78.66%",
-    "uptimeYear": "91.91%",
+    "uptimeYear": "91.92%",
     "time": 212,
     "timeDay": 152,
     "timeWeek": 193,
