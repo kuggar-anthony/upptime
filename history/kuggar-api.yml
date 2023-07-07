@@ -1,7 +1,7 @@
 url: https://api.kuggar.io/api/v2/ping
-status: down
-code: 502
-responseTime: 2832
-lastUpdated: 2023-07-07T22:16:23.263Z
+status: up
+code: 204
+responseTime: 906
+lastUpdated: 2023-07-07T22:31:51.479Z
 startTime: Wed Jan 04 2023 01:34:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
