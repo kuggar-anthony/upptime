@@ -1,7 +1,7 @@
 url: https://status.cloud.mongodb.com/api/v2/status.json
 status: up
 code: 200
-responseTime: 333
-lastUpdated: 2023-07-24T23:03:06.318Z
+responseTime: 162
+lastUpdated: 2023-07-25T23:01:30.654Z
 startTime: Wed Jan 04 2023 06:05:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
