@@ -1,7 +1,7 @@
 url: http://kuggarprodauapiv2-env.eba-yzpksewj.ap-southeast-2.elasticbeanstalk.com/api/v2/ping
 status: down
 code: 502
-responseTime: 400
-lastUpdated: 2023-08-06T23:02:15.016Z
+responseTime: 449
+lastUpdated: 2023-08-07T23:02:19.507Z
 startTime: Wed Jan 04 2023 01:58:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
