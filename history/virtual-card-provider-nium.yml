@@ -1,7 +1,7 @@
 url: https://payments.nium.com/commons/auth/login
 status: up
 code: 400
-responseTime: 765
-lastUpdated: 2023-08-18T23:01:52.370Z
-startTime: Wed Jan 04 2023 06:24:03 GMT+0000 (Coordinated Universal Time)
+responseTime: 575
+lastUpdated: 2023-08-19T23:01:50.451Z
+startTime: 2023-01-04T06:24:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
