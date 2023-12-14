@@ -1,7 +1,7 @@
 url: https://platform.az.au.kuggar.io/api/v2/codes/currency
-status: up
-code: 401
-responseTime: 1030
-lastUpdated: 2023-12-14T23:04:57.812Z
+status: down
+code: 502
+responseTime: 2815
+lastUpdated: 2023-12-14T23:32:19.003Z
 startTime: 2023-01-06T01:17:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
