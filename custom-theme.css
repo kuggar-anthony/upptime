@@ -1,0 +1,51 @@
+/**** IMPORT FONTS ****/
+@font-face {
+  font-family: 'JetBrains Mono';
+  src: url('https://cdn.statically.io/gh/kuggar-anthony/upptime/master/assets/JetBrainsMono-Regular.eot') format('embedded-opentype'),
+       url('https://cdn.statically.io/gh/kuggar-anthony/upptime/master/assets/JetBrainsMono-Regular.woff2') format('woff2'),
+       url('https://cdn.statically.io/gh/kuggar-anthony/upptime/master/assets/JetBrainsMono-Regular.woff') format('woff'),
+       url('https://cdn.statically.io/gh/kuggar-anthony/upptime/master/assets/JetBrainsMono-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  -webkit-font-feature-settings: "liga" on, "calt" on;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/**** SET THEME ****/
+:root {
+  --body-background-color: #ededed;
+  --body-text-color: #002626;
+  --card-background-color: #ffffff;
+  --nav-background-color: #ffffff;
+  --nav-border-bottom-color: #d8e8e4;
+  --nav-current-border-bottom-color: #1abc9c;
+  --card-border-color: #d8e8e4;
+  --down-border-left-color: #eb3b5a;
+  --down-background-color: #ffd0d2;
+  --degraded-border-left-color: #f7b731;
+  --up-border-left-color: #20bf6b;
+  --tag-color: #ffffff;
+  --tag-up-background-color: #20bf6b;
+  --tag-down-background-color: #eb3b5a;
+  --tag-degraded-background-color: #f7b731;
+  --change-background-color: #f7b731;
+  --error-button-border-color: #1a46ad;
+  --error-button-background-color: #3867d6;
+  --error-button-color: #ffffff;
+  --submit-button-border-color: #1a46ad;
+  --submit-button-background-color: #3867d6;
+  --submit-button-color: #ffffff;
+  --graph-opacity: 1;
+  --graph-filter: none;
+}
+
+/**** APPLY CUSTOM CSS ****/
+body {
+  font-family: 'JetBrains Mono', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif !important;
+  font-size: 0.9em !important;
+}
