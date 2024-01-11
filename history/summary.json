@@ -35,7 +35,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 776,
+    "timeYear": 777,
     "dailyMinutesDown": {
       "2023-10-07": 739,
       "2023-10-06": 1440,
@@ -201,7 +201,7 @@
     "icon": "https://kugg.ar/favicon.ico",
     "slug": "kuggar-api-aws-sydney",
     "status": "up",
-    "uptime": "66.55%",
+    "uptime": "66.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -210,7 +210,7 @@
     "timeDay": 448,
     "timeWeek": 451,
     "timeMonth": 417,
-    "timeYear": 418,
+    "timeYear": 419,
     "dailyMinutesDown": {
       "2023-10-07": 739,
       "2023-10-06": 1440,
@@ -354,7 +354,7 @@
     "timeDay": 842,
     "timeWeek": 875,
     "timeMonth": 923,
-    "timeYear": 854,
+    "timeYear": 855,
     "dailyMinutesDown": {}
   },
   {
@@ -363,7 +363,7 @@
     "icon": "https://kugg.ar/favicon.ico",
     "slug": "platform-api-aws-sydney",
     "status": "up",
-    "uptime": "66.37%",
+    "uptime": "66.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -372,7 +372,7 @@
     "timeDay": 1814,
     "timeWeek": 1031,
     "timeMonth": 903,
-    "timeYear": 863,
+    "timeYear": 861,
     "dailyMinutesDown": {
       "2023-10-07": 739,
       "2023-10-06": 1440,
@@ -536,7 +536,7 @@
     "timeDay": 901,
     "timeWeek": 898,
     "timeMonth": 879,
-    "timeYear": 854,
+    "timeYear": 855,
     "dailyMinutesDown": {
       "2023-10-07": 739,
       "2023-10-06": 1440,
@@ -969,7 +969,7 @@
     "timeDay": 58,
     "timeWeek": 133,
     "timeMonth": 203,
-    "timeYear": 214,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   },
   {
