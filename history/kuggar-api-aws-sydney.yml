@@ -1,7 +1,7 @@
 url: http://kuggarprodauapiv2-env.eba-yzpksewj.ap-southeast-2.elasticbeanstalk.com/api/v2/ping
 status: up
 code: 204
-responseTime: 457
-lastUpdated: 2024-02-03T23:05:11.438Z
+responseTime: 446
+lastUpdated: 2024-02-04T23:02:52.408Z
 startTime: 2023-01-04T01:58:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
