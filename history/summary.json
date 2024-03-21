@@ -201,7 +201,7 @@
     "icon": "https://kugg.ar/favicon.ico",
     "slug": "kuggar-api-aws-sydney",
     "status": "up",
-    "uptime": "71.85%",
+    "uptime": "71.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -363,7 +363,7 @@
     "icon": "https://kugg.ar/favicon.ico",
     "slug": "platform-api-aws-sydney",
     "status": "up",
-    "uptime": "71.72%",
+    "uptime": "71.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -948,8 +948,7 @@
       "2023-04-12": 99,
       "2023-03-31": 70,
       "2023-03-30": 61,
-      "2023-03-29": 172,
-      "2023-03-22": 21
+      "2023-03-29": 172
     }
   },
   {
