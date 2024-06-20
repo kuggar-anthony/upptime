@@ -1,7 +1,7 @@
 url: https://payments.nium.com/commons/auth/login
-status: down
-code: 503
-responseTime: 480
-lastUpdated: 2024-06-20T05:10:37.718Z
+status: up
+code: 400
+responseTime: 513
+lastUpdated: 2024-06-20T05:39:01.991Z
 startTime: 2023-01-04T06:24:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
