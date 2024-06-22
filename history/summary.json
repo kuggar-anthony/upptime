@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 871,
-    "timeDay": 987,
-    "timeWeek": 857,
-    "timeMonth": 939,
-    "timeYear": 882,
+    "timeDay": 766,
+    "timeWeek": 837,
+    "timeMonth": 931,
+    "timeYear": 881,
     "dailyMinutesDown": {
       "2023-07-07": 15
     }
@@ -25,12 +25,12 @@
     "icon": "https://kugg.ar/favicon.ico",
     "slug": "kuggar-api-azure-australia-east",
     "status": "down",
-    "uptime": "70.94%",
+    "uptime": "70.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "70.51%",
-    "time": 750,
+    "uptimeYear": "70.56%",
+    "time": 751,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -141,8 +141,7 @@
       "2023-06-27": 1440,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
-      "2023-06-24": 1440,
-      "2023-06-23": 1440
+      "2023-06-24": 1440
     }
   },
   {
@@ -151,18 +150,19 @@
     "icon": "https://kugg.ar/favicon.ico",
     "slug": "kuggar-api-aws-sydney",
     "status": "down",
-    "uptime": "61.81%",
+    "uptime": "61.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "48.63%",
     "time": 410,
-    "timeDay": 457,
-    "timeWeek": 414,
-    "timeMonth": 409,
+    "timeDay": 288,
+    "timeWeek": 392,
+    "timeMonth": 404,
     "timeYear": 410,
     "dailyMinutesDown": {
-      "2024-06-21": 1255,
+      "2024-06-22": 58,
+      "2024-06-21": 1440,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
@@ -348,8 +348,7 @@
       "2023-06-27": 1440,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
-      "2023-06-24": 1440,
-      "2023-06-23": 1440
+      "2023-06-24": 1440
     }
   },
   {
@@ -364,9 +363,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 860,
-    "timeDay": 865,
-    "timeWeek": 858,
-    "timeMonth": 895,
+    "timeDay": 748,
+    "timeWeek": 846,
+    "timeMonth": 887,
     "timeYear": 867,
     "dailyMinutesDown": {}
   },
@@ -376,16 +375,16 @@
     "icon": "https://kugg.ar/favicon.ico",
     "slug": "platform-api-aws-sydney",
     "status": "up",
-    "uptime": "76.65%",
+    "uptime": "76.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "70.51%",
+    "uptimeYear": "70.56%",
     "time": 868,
-    "timeDay": 1023,
-    "timeWeek": 940,
-    "timeMonth": 918,
-    "timeYear": 881,
+    "timeDay": 753,
+    "timeWeek": 890,
+    "timeMonth": 909,
+    "timeYear": 880,
     "dailyMinutesDown": {
       "2023-10-07": 739,
       "2023-10-06": 1440,
@@ -492,8 +491,7 @@
       "2023-06-27": 1440,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
-      "2023-06-24": 1440,
-      "2023-06-23": 1440
+      "2023-06-24": 1440
     }
   },
   {
@@ -507,11 +505,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 847,
-    "timeDay": 847,
-    "timeWeek": 866,
-    "timeMonth": 913,
-    "timeYear": 852,
+    "time": 846,
+    "timeDay": 627,
+    "timeWeek": 839,
+    "timeMonth": 901,
+    "timeYear": 851,
     "dailyMinutesDown": {}
   },
   {
@@ -524,11 +522,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "70.51%",
-    "time": 856,
-    "timeDay": 973,
-    "timeWeek": 895,
-    "timeMonth": 879,
+    "uptimeYear": "70.56%",
+    "time": 855,
+    "timeDay": 592,
+    "timeWeek": 846,
+    "timeMonth": 863,
     "timeYear": 861,
     "dailyMinutesDown": {
       "2023-10-07": 739,
@@ -636,8 +634,7 @@
       "2023-06-27": 1440,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
-      "2023-06-24": 1440,
-      "2023-06-23": 1440
+      "2023-06-24": 1440
     }
   },
   {
@@ -652,9 +649,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 404,
-    "timeDay": 147,
-    "timeWeek": 319,
-    "timeMonth": 215,
+    "timeDay": 86,
+    "timeWeek": 297,
+    "timeMonth": 207,
     "timeYear": 456,
     "dailyMinutesDown": {
       "2023-08-04": 145
@@ -666,15 +663,15 @@
     "icon": "https://kugg.ar/favicon.ico",
     "slug": "customer-portal-azure-australia-east",
     "status": "down",
-    "uptime": "70.94%",
+    "uptime": "70.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "70.51%",
+    "uptimeYear": "70.56%",
     "time": 106,
-    "timeDay": 39,
-    "timeWeek": 70,
-    "timeMonth": 82,
+    "timeDay": 141,
+    "timeWeek": 83,
+    "timeMonth": 85,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2023-10-07": 739,
@@ -782,8 +779,7 @@
       "2023-06-27": 1440,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
-      "2023-06-24": 1440,
-      "2023-06-23": 1440
+      "2023-06-24": 1440
     }
   },
   {
@@ -798,9 +794,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 495,
-    "timeDay": 558,
-    "timeWeek": 487,
-    "timeMonth": 494,
+    "timeDay": 345,
+    "timeWeek": 465,
+    "timeMonth": 488,
     "timeYear": 491,
     "dailyMinutesDown": {}
   },
@@ -811,14 +807,14 @@
     "slug": "mongo-db-atlas",
     "status": "up",
     "uptime": "95.69%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "60.12%",
+    "uptimeDay": "16.92%",
+    "uptimeWeek": "61.76%",
     "uptimeMonth": "84.28%",
     "uptimeYear": "96.38%",
     "time": 352,
-    "timeDay": 388,
-    "timeWeek": 353,
-    "timeMonth": 315,
+    "timeDay": 471,
+    "timeWeek": 359,
+    "timeMonth": 321,
     "timeYear": 380,
     "dailyMinutesDown": {
       "2024-06-21": 1255,
@@ -897,9 +893,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 164,
-    "timeWeek": 203,
-    "timeMonth": 202,
+    "timeDay": 267,
+    "timeWeek": 233,
+    "timeMonth": 204,
     "timeYear": 214,
     "dailyMinutesDown": {}
   },
@@ -915,9 +911,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 572,
-    "timeDay": 552,
-    "timeWeek": 558,
-    "timeMonth": 527,
+    "timeDay": 736,
+    "timeWeek": 576,
+    "timeMonth": 536,
     "timeYear": 560,
     "dailyMinutesDown": {
       "2024-06-20": 28,
