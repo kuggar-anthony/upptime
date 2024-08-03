@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 883,
-    "timeDay": 643,
-    "timeWeek": 856,
-    "timeMonth": 938,
-    "timeYear": 879,
+    "timeDay": 600,
+    "timeWeek": 810,
+    "timeMonth": 916,
+    "timeYear": 878,
     "dailyMinutesDown": {}
   },
   {
@@ -23,12 +23,12 @@
     "icon": "https://kugg.ar/favicon.ico",
     "slug": "kuggar-api-azure-australia-east",
     "status": "down",
-    "uptime": "73.01%",
+    "uptime": "73.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.79%",
-    "time": 763,
+    "uptimeYear": "82.06%",
+    "time": 765,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -97,8 +97,7 @@
       "2023-08-08": 1440,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
-      "2023-08-05": 1440,
-      "2023-08-04": 1440
+      "2023-08-05": 1440
     }
   },
   {
@@ -107,18 +106,19 @@
     "icon": "https://kugg.ar/favicon.ico",
     "slug": "kuggar-api-aws-sydney",
     "status": "down",
-    "uptime": "57.39%",
+    "uptime": "57.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "48.63%",
     "time": 411,
-    "timeDay": 384,
-    "timeWeek": 399,
-    "timeMonth": 414,
+    "timeDay": 426,
+    "timeWeek": 392,
+    "timeMonth": 413,
     "timeYear": 410,
     "dailyMinutesDown": {
-      "2024-08-02": 62,
+      "2024-08-03": 61,
+      "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
@@ -304,8 +304,7 @@
       "2023-08-08": 1440,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
-      "2023-08-05": 1440,
-      "2023-08-04": 1440
+      "2023-08-05": 1440
     }
   },
   {
@@ -320,9 +319,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 868,
-    "timeDay": 932,
-    "timeWeek": 859,
-    "timeMonth": 905,
+    "timeDay": 898,
+    "timeWeek": 850,
+    "timeMonth": 902,
     "timeYear": 870,
     "dailyMinutesDown": {}
   },
@@ -332,15 +331,15 @@
     "icon": "https://kugg.ar/favicon.ico",
     "slug": "platform-api-aws-sydney",
     "status": "up",
-    "uptime": "78.33%",
+    "uptime": "78.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.79%",
+    "uptimeYear": "82.06%",
     "time": 881,
-    "timeDay": 953,
-    "timeWeek": 923,
-    "timeMonth": 957,
+    "timeDay": 1023,
+    "timeWeek": 915,
+    "timeMonth": 955,
     "timeYear": 888,
     "dailyMinutesDown": {
       "2023-10-07": 739,
@@ -406,8 +405,7 @@
       "2023-08-08": 1440,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
-      "2023-08-05": 1440,
-      "2023-08-04": 1440
+      "2023-08-05": 1440
     }
   },
   {
@@ -422,9 +420,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 854,
-    "timeDay": 829,
-    "timeWeek": 849,
-    "timeMonth": 878,
+    "timeDay": 878,
+    "timeWeek": 833,
+    "timeMonth": 872,
     "timeYear": 853,
     "dailyMinutesDown": {}
   },
@@ -434,15 +432,15 @@
     "icon": "https://kugg.ar/favicon.ico",
     "slug": "virtual-cards-api-aws-sydney",
     "status": "up",
-    "uptime": "78.33%",
+    "uptime": "78.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.79%",
+    "uptimeYear": "82.06%",
     "time": 866,
-    "timeDay": 906,
-    "timeWeek": 838,
-    "timeMonth": 908,
+    "timeDay": 1050,
+    "timeWeek": 862,
+    "timeMonth": 912,
     "timeYear": 866,
     "dailyMinutesDown": {
       "2023-10-07": 739,
@@ -508,8 +506,7 @@
       "2023-08-08": 1440,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
-      "2023-08-05": 1440,
-      "2023-08-04": 1440
+      "2023-08-05": 1440
     }
   },
   {
@@ -524,13 +521,12 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
     "time": 403,
-    "timeDay": 303,
-    "timeWeek": 234,
-    "timeMonth": 224,
+    "timeDay": 240,
+    "timeWeek": 249,
+    "timeMonth": 227,
     "timeYear": 450,
     "dailyMinutesDown": {
-      "2024-07-30": 41,
-      "2023-08-04": 145
+      "2024-07-30": 41
     }
   },
   {
@@ -539,15 +535,15 @@
     "icon": "https://kugg.ar/favicon.ico",
     "slug": "customer-portal-azure-australia-east",
     "status": "down",
-    "uptime": "73.01%",
+    "uptime": "73.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.79%",
+    "uptimeYear": "82.06%",
     "time": 117,
-    "timeDay": 92,
-    "timeWeek": 139,
-    "timeMonth": 279,
+    "timeDay": 81,
+    "timeWeek": 143,
+    "timeMonth": 280,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2023-10-07": 739,
@@ -613,8 +609,7 @@
       "2023-08-08": 1440,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
-      "2023-08-05": 1440,
-      "2023-08-04": 1440
+      "2023-08-05": 1440
     }
   },
   {
@@ -629,8 +624,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 497,
-    "timeDay": 476,
-    "timeWeek": 521,
+    "timeDay": 513,
+    "timeWeek": 513,
     "timeMonth": 515,
     "timeYear": 491,
     "dailyMinutesDown": {}
@@ -641,14 +636,14 @@
     "icon": "https://www.mongodb.com/assets/images/global/favicon.ico",
     "slug": "mongo-db-atlas",
     "status": "up",
-    "uptime": "95.88%",
+    "uptime": "95.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.95%",
+    "uptimeWeek": "95.48%",
     "uptimeMonth": "97.70%",
-    "uptimeYear": "96.32%",
+    "uptimeYear": "96.39%",
     "time": 370,
-    "timeDay": 298,
-    "timeWeek": 478,
+    "timeDay": 261,
+    "timeWeek": 449,
     "timeMonth": 431,
     "timeYear": 387,
     "dailyMinutesDown": {
@@ -729,10 +724,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 229,
-    "timeWeek": 229,
-    "timeMonth": 220,
-    "timeYear": 214,
+    "timeDay": 157,
+    "timeWeek": 235,
+    "timeMonth": 218,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   },
   {
@@ -746,10 +741,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 569,
-    "timeDay": 496,
-    "timeWeek": 580,
-    "timeMonth": 542,
+    "time": 568,
+    "timeDay": 471,
+    "timeWeek": 568,
+    "timeMonth": 543,
     "timeYear": 547,
     "dailyMinutesDown": {
       "2024-07-18": 16,
