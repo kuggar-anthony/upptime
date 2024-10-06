@@ -27,15 +27,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
+    "uptimeYear": "99.60%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-10-07": 739
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Kuggar API - AWS (Sydney)",
@@ -54,7 +52,8 @@
     "timeMonth": 389,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2024-10-05": 1423,
+      "2024-10-06": 75,
+      "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -240,8 +239,7 @@
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
-      "2024-04-02": 2,
-      "2023-10-07": 739
+      "2024-04-02": 2
     }
   },
   {
@@ -272,15 +270,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
+    "uptimeYear": "99.60%",
     "time": 886,
     "timeDay": 1063,
     "timeWeek": 869,
     "timeMonth": 859,
     "timeYear": 887,
-    "dailyMinutesDown": {
-      "2023-10-07": 739
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Virtual.Cards API - Azure (Australia East)",
@@ -310,15 +306,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
+    "uptimeYear": "99.60%",
     "time": 870,
     "timeDay": 1026,
     "timeWeek": 869,
     "timeMonth": 861,
     "timeYear": 868,
-    "dailyMinutesDown": {
-      "2023-10-07": 739
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Customer Portal",
@@ -350,15 +344,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
+    "uptimeYear": "99.60%",
     "time": 118,
     "timeDay": 72,
     "timeWeek": 116,
     "timeMonth": 125,
     "timeYear": 113,
-    "dailyMinutesDown": {
-      "2023-10-07": 739
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Customer Portal - AWS (Sydney)",
