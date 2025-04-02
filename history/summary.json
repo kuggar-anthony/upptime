@@ -47,14 +47,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.28%",
+    "uptimeYear": "0.26%",
     "time": 403,
     "timeDay": 427,
     "timeWeek": 359,
     "timeMonth": 412,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2025-04-01": 1421,
+      "2025-04-02": 77,
+      "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -417,8 +418,7 @@
       "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
-      "2024-04-03": 1440,
-      "2024-04-02": 2
+      "2024-04-03": 1440
     }
   },
   {
@@ -485,7 +485,7 @@
     "icon": "https://kugg.ar/favicon.ico",
     "slug": "virtual-cards-api-aws-sydney",
     "status": "up",
-    "uptime": "84.77%",
+    "uptime": "84.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
