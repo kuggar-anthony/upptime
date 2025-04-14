@@ -43,7 +43,7 @@
     "icon": "https://kugg.ar/favicon.ico",
     "slug": "kuggar-api-aws-sydney",
     "status": "down",
-    "uptime": "39.77%",
+    "uptime": "39.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -54,7 +54,7 @@
     "timeMonth": 407,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2025-04-14": 280,
+      "2025-04-14": 643,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
@@ -558,16 +558,16 @@
     "url": "https://status.cloud.mongodb.com/api/v2/status.json",
     "icon": "https://www.mongodb.com/assets/images/global/favicon.ico",
     "slug": "mongo-db-atlas",
-    "status": "up",
-    "uptime": "97.34%",
-    "uptimeDay": "93.79%",
+    "status": "down",
+    "uptime": "97.35%",
+    "uptimeDay": "93.75%",
     "uptimeWeek": "97.73%",
     "uptimeMonth": "96.32%",
-    "uptimeYear": "93.95%",
+    "uptimeYear": "93.96%",
     "time": 413,
-    "timeDay": 423,
-    "timeWeek": 1009,
-    "timeMonth": 557,
+    "timeDay": 419,
+    "timeWeek": 988,
+    "timeMonth": 556,
     "timeYear": 418,
     "dailyMinutesDown": {
       "2025-04-14": 23,
@@ -668,7 +668,7 @@
       "2024-06-03": 307,
       "2024-05-13": 22,
       "2024-05-09": 61,
-      "2024-05-06": 127
+      "2024-05-06": 73
     }
   },
   {
