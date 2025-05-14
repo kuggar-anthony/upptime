@@ -54,7 +54,7 @@
     "timeMonth": 390,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2025-05-14": 80,
+      "2025-05-14": 144,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -558,18 +558,19 @@
     "url": "https://status.cloud.mongodb.com/api/v2/status.json",
     "icon": "https://www.mongodb.com/assets/images/global/favicon.ico",
     "slug": "mongo-db-atlas",
-    "status": "up",
-    "uptime": "97.64%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.67%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "98.73%",
-    "uptimeYear": "94.43%",
+    "uptimeYear": "94.50%",
     "time": 416,
-    "timeDay": 381,
+    "timeDay": 399,
     "timeWeek": 428,
     "timeMonth": 422,
     "timeYear": 413,
     "dailyMinutesDown": {
+      "2025-05-14": 0,
       "2025-05-10": 22,
       "2025-05-03": 39,
       "2025-05-02": 329,
@@ -666,9 +667,7 @@
       "2024-07-10": 87,
       "2024-06-21": 1255,
       "2024-06-20": 1440,
-      "2024-06-19": 946,
-      "2024-06-15": 272,
-      "2024-06-14": 107
+      "2024-06-19": 946
     }
   },
   {
