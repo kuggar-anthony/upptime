@@ -54,7 +54,7 @@
     "timeMonth": 391,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2025-05-21": 82,
+      "2025-05-21": 197,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
@@ -446,18 +446,20 @@
     "url": "https://platform.aws.au.kuggar.io/api/v2/codes/currency",
     "icon": "https://kugg.ar/favicon.ico",
     "slug": "platform-api-aws-sydney",
-    "status": "up",
+    "status": "down",
     "uptime": "85.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 894,
-    "timeDay": 1083,
+    "timeDay": 989,
     "timeWeek": 891,
     "timeMonth": 895,
     "timeYear": 900,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-21": 0
+    }
   },
   {
     "name": "Virtual.Cards API - Azure (Australia East)",
@@ -484,18 +486,20 @@
     "url": "https://virtualcards.aws.au.kuggar.io/api/v2/virtual_card/list",
     "icon": "https://kugg.ar/favicon.ico",
     "slug": "virtual-cards-api-aws-sydney",
-    "status": "up",
+    "status": "down",
     "uptime": "85.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 873,
-    "timeDay": 948,
-    "timeWeek": 853,
-    "timeMonth": 864,
-    "timeYear": 879,
-    "dailyMinutesDown": {}
+    "time": 872,
+    "timeDay": 884,
+    "timeWeek": 849,
+    "timeMonth": 863,
+    "timeYear": 878,
+    "dailyMinutesDown": {
+      "2025-05-21": 0
+    }
   },
   {
     "name": "Customer Portal",
@@ -561,12 +565,12 @@
     "status": "up",
     "uptime": "97.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.48%",
+    "uptimeWeek": "92.00%",
     "uptimeMonth": "97.00%",
     "uptimeYear": "95.03%",
     "time": 417,
     "timeDay": 375,
-    "timeWeek": 413,
+    "timeWeek": 412,
     "timeMonth": 426,
     "timeYear": 414,
     "dailyMinutesDown": {
