@@ -1,7 +1,7 @@
 url: https://platform.aws.au.kuggar.io/api/v2/codes/currency
-status: up
-code: 401
-responseTime: 892
-lastUpdated: 2025-07-15T23:08:23.236Z
+status: down
+code: 502
+responseTime: 825
+lastUpdated: 2025-07-16T03:27:01.937Z
 startTime: 2023-01-06T01:17:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
