@@ -4,19 +4,19 @@
     "url": "https://api.kuggar.io/api/v2/ping",
     "icon": "https://kugg.ar/favicon.ico",
     "slug": "kuggar-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "78.73%",
-    "uptimeWeek": "96.96%",
-    "uptimeMonth": "99.30%",
+    "uptimeDay": "77.86%",
+    "uptimeWeek": "96.84%",
+    "uptimeMonth": "99.27%",
     "uptimeYear": "99.93%",
-    "time": 684,
-    "timeDay": 5601,
-    "timeWeek": 1795,
-    "timeMonth": 926,
+    "time": 683,
+    "timeDay": 3901,
+    "timeWeek": 1651,
+    "timeMonth": 912,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2025-10-29": 307,
+      "2025-10-29": 319,
       "2024-11-03": 71
     }
   },
@@ -55,7 +55,7 @@
     "timeMonth": 399,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2025-10-29": 1286,
+      "2025-10-29": 1299,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
@@ -459,7 +459,7 @@
     "timeMonth": 884,
     "timeYear": 916,
     "dailyMinutesDown": {
-      "2025-10-29": 1286,
+      "2025-10-29": 1300,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
@@ -583,7 +583,7 @@
     "timeMonth": 850,
     "timeYear": 882,
     "dailyMinutesDown": {
-      "2025-10-29": 1287,
+      "2025-10-29": 1300,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
@@ -754,9 +754,9 @@
     "slug": "customer-portal",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "79.55%",
-    "uptimeWeek": "97.08%",
-    "uptimeMonth": "99.33%",
+    "uptimeDay": "78.65%",
+    "uptimeWeek": "96.95%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "99.94%",
     "time": 261,
     "timeDay": 501,
@@ -764,7 +764,7 @@
     "timeMonth": 223,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2025-10-29": 294
+      "2025-10-29": 307
     }
   },
   {
