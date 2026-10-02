@@ -13,8 +13,8 @@
     "time": 638,
     "timeDay": 762,
     "timeWeek": 726,
-    "timeMonth": 733,
-    "timeYear": 643,
+    "timeMonth": 742,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2025-10-29": 330,
       "2026-04-12": 61
@@ -52,10 +52,11 @@
     "time": 397,
     "timeDay": 330,
     "timeWeek": 342,
-    "timeMonth": 347,
+    "timeMonth": 345,
     "timeYear": 392,
     "dailyMinutesDown": {
-      "2026-10-01": 1281,
+      "2026-10-02": 58,
+      "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
@@ -418,8 +419,7 @@
       "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
-      "2025-10-03": 1440,
-      "2025-10-02": 1440
+      "2025-10-03": 1440
     }
   },
   {
@@ -436,8 +436,8 @@
     "time": 847,
     "timeDay": 677,
     "timeWeek": 707,
-    "timeMonth": 748,
-    "timeYear": 827,
+    "timeMonth": 738,
+    "timeYear": 826,
     "dailyMinutesDown": {}
   },
   {
@@ -446,7 +446,7 @@
     "icon": "https://kugg.ar/favicon.ico",
     "slug": "platform-api-aws-sydney",
     "status": "down",
-    "uptime": "60.09%",
+    "uptime": "60.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -454,10 +454,11 @@
     "time": 825,
     "timeDay": 453,
     "timeWeek": 582,
-    "timeMonth": 609,
+    "timeMonth": 607,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2026-10-01": 1281,
+      "2026-10-02": 58,
+      "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
@@ -820,8 +821,7 @@
       "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
-      "2025-10-03": 1440,
-      "2025-10-02": 1440
+      "2025-10-03": 1440
     }
   },
   {
@@ -838,7 +838,7 @@
     "time": 843,
     "timeDay": 672,
     "timeWeek": 710,
-    "timeMonth": 737,
+    "timeMonth": 733,
     "timeYear": 820,
     "dailyMinutesDown": {}
   },
@@ -856,10 +856,11 @@
     "time": 793,
     "timeDay": 614,
     "timeWeek": 604,
-    "timeMonth": 598,
+    "timeMonth": 591,
     "timeYear": 754,
     "dailyMinutesDown": {
-      "2026-10-01": 1281,
+      "2026-10-02": 58,
+      "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
@@ -1222,8 +1223,7 @@
       "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
-      "2025-10-03": 1440,
-      "2025-10-02": 1440
+      "2025-10-03": 1440
     }
   },
   {
@@ -1240,7 +1240,7 @@
     "time": 236,
     "timeDay": 340,
     "timeWeek": 356,
-    "timeMonth": 339,
+    "timeMonth": 346,
     "timeYear": 220,
     "dailyMinutesDown": {
       "2025-10-29": 318
@@ -1260,7 +1260,7 @@
     "time": 101,
     "timeDay": 165,
     "timeWeek": 188,
-    "timeMonth": 120,
+    "timeMonth": 123,
     "timeYear": 98,
     "dailyMinutesDown": {}
   },
@@ -1278,7 +1278,7 @@
     "time": 502,
     "timeDay": 421,
     "timeWeek": 452,
-    "timeMonth": 452,
+    "timeMonth": 446,
     "timeYear": 492,
     "dailyMinutesDown": {}
   },
@@ -1287,19 +1287,18 @@
     "url": "https://status.cloud.mongodb.com/api/v2/status.json",
     "icon": "https://www.mongodb.com/assets/images/global/favicon.ico",
     "slug": "mongo-db-atlas",
-    "status": "up",
-    "uptime": "94.45%",
-    "uptimeDay": "80.27%",
+    "status": "down",
+    "uptime": "94.46%",
+    "uptimeDay": "80.23%",
     "uptimeWeek": "97.18%",
-    "uptimeMonth": "73.46%",
-    "uptimeYear": "81.68%",
+    "uptimeMonth": "73.45%",
+    "uptimeYear": "81.70%",
     "time": 465,
-    "timeDay": 342,
-    "timeWeek": 372,
-    "timeMonth": 279,
-    "timeYear": 422,
+    "timeDay": 266,
+    "timeWeek": 339,
+    "timeMonth": 273,
+    "timeYear": 421,
     "dailyMinutesDown": {
-      "2025-10-02": 206,
       "2025-10-06": 171,
       "2025-10-07": 399,
       "2025-10-20": 619,
@@ -1409,7 +1408,8 @@
       "2026-09-04": 1440,
       "2026-09-03": 402,
       "2026-09-16": 510,
-      "2026-10-01": 284
+      "2026-10-01": 284,
+      "2026-10-02": 0
     }
   },
   {
@@ -1426,8 +1426,8 @@
     "time": 265,
     "timeDay": 265,
     "timeWeek": 245,
-    "timeMonth": 258,
-    "timeYear": 251,
+    "timeMonth": 262,
+    "timeYear": 249,
     "dailyMinutesDown": {}
   },
   {
@@ -1444,7 +1444,7 @@
     "time": 616,
     "timeDay": 811,
     "timeWeek": 697,
-    "timeMonth": 656,
+    "timeMonth": 661,
     "timeYear": 609,
     "dailyMinutesDown": {
       "2025-10-06": 45,
