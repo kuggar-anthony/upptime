@@ -44,7 +44,7 @@
     "icon": "https://kugg.ar/favicon.ico",
     "slug": "kuggar-api-aws-sydney",
     "status": "down",
-    "uptime": "24.05%",
+    "uptime": "24.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -55,7 +55,7 @@
     "timeMonth": 356,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2026-10-09": 1030,
+      "2026-10-09": 1302,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
       "2026-10-06": 1440,
@@ -457,7 +457,7 @@
     "timeMonth": 623,
     "timeYear": 771,
     "dailyMinutesDown": {
-      "2026-10-09": 1030,
+      "2026-10-09": 1302,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
       "2026-10-06": 1440,
@@ -859,7 +859,7 @@
     "timeMonth": 589,
     "timeYear": 749,
     "dailyMinutesDown": {
-      "2026-10-09": 1031,
+      "2026-10-09": 1302,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
       "2026-10-06": 1440,
@@ -1287,16 +1287,16 @@
     "url": "https://status.cloud.mongodb.com/api/v2/status.json",
     "icon": "https://www.mongodb.com/assets/images/global/favicon.ico",
     "slug": "mongo-db-atlas",
-    "status": "down",
-    "uptime": "94.47%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "92.35%",
-    "uptimeYear": "81.78%",
+    "status": "up",
+    "uptime": "94.46%",
+    "uptimeDay": "81.16%",
+    "uptimeWeek": "97.31%",
+    "uptimeMonth": "92.36%",
+    "uptimeYear": "81.72%",
     "time": 461,
-    "timeDay": 157,
-    "timeWeek": 274,
-    "timeMonth": 296,
+    "timeDay": 223,
+    "timeWeek": 283,
+    "timeMonth": 298,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2025-10-20": 619,
@@ -1408,7 +1408,7 @@
       "2026-09-16": 510,
       "2026-10-01": 284,
       "2026-10-02": 353,
-      "2026-10-09": 1
+      "2026-10-09": 271
     }
   },
   {
