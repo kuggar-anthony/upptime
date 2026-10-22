@@ -1,7 +1,7 @@
 url: https://data.fixer.io/api/
-status: up
-code: 200
-responseTime: 241
-lastUpdated: 2026-10-22T01:02:54.379Z
+status: down
+code: 401
+responseTime: 1053
+lastUpdated: 2026-10-22T18:52:35.465Z
 startTime: 2023-01-04T05:45:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
